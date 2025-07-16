@@ -16,3 +16,4 @@ press connect button at webbrowser.
 At another terminal:
 python ai_agent_gradio_openai.py
 
+Watch related vido: https://www.youtube.com/watch?v=Fr4-f7awkII&t=3s
