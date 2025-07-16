@@ -7,3 +7,4 @@ mcp==1.6.0
 langchain_mcp_adapters==0.0.9
 langgraph==0.4.8
 fastmcp==2.2.6
+uv
