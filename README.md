@@ -4,7 +4,7 @@ Develop MCP Server With OpenAI API
 
 download nodejs: https://nodejs.org/en/download/
 
-npv --version
+npm -v
 
 python=3.12.9
 
